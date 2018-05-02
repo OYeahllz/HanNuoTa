@@ -25,4 +25,4 @@ int main() {
 	move(n, 'x', 'y', 'z'); 
 	system("pause");
 	return 0;
-}1231
+}
